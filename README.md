@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library-Management-System(MySQL)
 
 A Library Management System database built using MySQL to manage library branches, employees, books, customers, and book transactions. This project demonstrates database design, table relationships, and SQL queries for managing library data efficiently.
 
